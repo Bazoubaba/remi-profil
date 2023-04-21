@@ -1,0 +1,106 @@
+/* Write some CSS below : */
+
+h2{
+    font-family: 'roboto';
+    font-size: 30px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;}
+p{
+    text-align: center;
+    margin: 10px 10px;
+    font-family: 'Kalam', cursive;
+}
+
+h3{
+    text-align: center;
+    font-size: medium;}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans Regular';
+    font-size: 30px;}
+
+body{
+    background-image:url(images/fond2.png) ;
+    font-family: 'Lucida Sans';
+    margin: 0;
+    padding: 0;}
+
+.carte-blue{
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+    border-radius: 5%;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+    padding: 50px;
+    margin: 40px auto;
+    width: 700px;
+    font-family: 'Lucida Sans';
+    text-align: center;
+    line-height: 1.5;}
+
+.div4{
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans';
+    text-align: center;}
+
+#div0 p{
+    margin-bottom: 40px;
+}
+
+li{
+    font-family: 'Lucida Sans';
+    line-height: 1.4;
+    list-style: none;}
+
+.buton{ 
+    background-color: #62CDFF;
+    border-radius: 30px;
+    padding: 15px 10px;
+    margin: 20px 20px;
+    font-family: 'Lucida Sans';
+    width: 25%;
+    display: inline;
+    transition: 0.5s;}
+
+.buton:hover{
+    font-size: 150%;
+}
+
+.you{display: inline;
+    justify-content: space-between;
+    width: 25%;
+    margin: 20px 20px;
+    transition: 0.5s;
+}
+
+.you:hover{
+    transform: scale(1.2);
+}
+
+.listline li{
+    display: inline;
+    letter-spacing: 40px;
+    transition: 0.8s; 
+    font-size: 50px;
+    color: grey;
+}
+
+.listline i:hover{
+    color: red; 
+    transform: scale(1.6);}
+
+#remi{
+    border-radius: 5%;
+    width: 150px;}
+
+.container {
+    width: 800px;
+    margin: 10px auto;}
+
+.logo1{
+    display: inline;
+    font-size: 50px;
+    font-family: 'Lucida Sans Regular';}
